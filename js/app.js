@@ -5,12 +5,11 @@
 
     var routes = {
         home: 'src/pages/home.html',
-        about: 'src/pages/about.html',
-        service: 'src/pages/service.html',
-        team: 'src/pages/team.html',
-        blog: 'src/pages/blog.html',
-        document: 'src/pages/document.html',
-        contact: 'src/pages/contact.html'
+        layanan: 'src/pages/layanan.html',
+        'lab-bahasa': 'src/pages/lab-bahasa.html',
+        'tim-upb': 'src/pages/tim-upb.html',
+        informasi: 'src/pages/informasi.html',
+        kontak: 'src/pages/kontak.html'
     };
 
     function loadComponents() {
