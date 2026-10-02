@@ -1,0 +1,7 @@
+services:
+  web:
+    build: .
+    container_name: website-bahasa-upb
+    ports:
+      - "80:80"
+    restart: unless-stopped
